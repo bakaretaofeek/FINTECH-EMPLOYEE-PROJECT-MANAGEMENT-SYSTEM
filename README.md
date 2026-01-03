@@ -35,7 +35,7 @@ Maps projects to their lead departments.
 
 This project aims to:
 
-Analyze employee performance and compensation
+Analyze employee performance and payment
 
 Track project progress and resource allocation
 
