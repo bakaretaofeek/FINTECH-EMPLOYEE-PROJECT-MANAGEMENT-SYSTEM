@@ -1,0 +1,217 @@
+Employee_id,Project_id,Start_date,End_date,Project_status,Department
+3,1,2022-01-08,2023-12-31,Ongoing,Marketing
+5,1,2022-01-08,2023-12-31,Ongoing,IT
+6,1,2022-01-08,2023-12-31,Ongoing,Marketing
+8,2,2022-09-15,2024-06-30,Ongoing,Operations
+10,2,2022-09-15,2024-06-30,Ongoing,Operations
+12,2,2022-09-15,2024-06-30,Ongoing,Sales  
+13,3,2022-01-10,2024-02-28,Ongoing,Engineering
+14,3,2022-01-10,2024-02-28,Ongoing,Customer Service
+16,3,2022-01-10,2024-02-28,Ongoing,Operations
+18,4,2022-01-11,2023-10-31,Completed,Finance
+20,4,2022-01-11,2023-10-31,Completed,Marketing
+22,4,2022-01-11,2023-10-31,Completed,IT
+23,5,2022-01-12,2024-04-30,Ongoing,Customer Service
+24,5,2022-01-12,2024-04-30,Ongoing,Engineering
+25,5,2022-01-12,2024-04-30,Ongoing,IT
+28,6,2023-01-01,2024-03-31,Ongoing,Customer Service
+31,6,2023-01-01,2024-03-31,Ongoing,Operations
+33,6,2023-01-01,2024-03-31,Ongoing,Operations
+35,7,2023-01-02,2024-06-30,Ongoing,Operations
+37,7,2023-01-02,2024-06-30,Ongoing,Finance
+38,7,2023-01-02,2024-06-30,Ongoing,Engineering
+39,8,2023-01-03,2024-05-31,Ongoing,Finance
+41,8,2023-01-03,2024-05-31,Ongoing,Operations
+42,8,2023-01-03,2024-05-31,Ongoing,Finance
+48,9,2023-01-04,2024-08-31,Ongoing,Marketing
+51,9,2023-01-04,2024-08-31,Ongoing,HR
+53,9,2023-01-04,2024-08-31,Ongoing,HR
+54,10,2023-01-05,2024-09-30,Ongoing,Marketing
+58,10,2023-01-05,2024-09-30,Ongoing,Finance
+60,11,2023-01-06,2024-07-31,Ongoing,IT
+61,11,2023-01-06,2024-07-31,Ongoing,IT
+64,11,2023-01-06,2024-07-31,Ongoing,Sales  
+67,12,2023-01-07,2023-12-31,Completed,Customer Service
+68,12,2023-01-07,2023-12-31,Completed,IT
+69,12,2023-01-07,2023-12-31,Completed,HR
+70,13,2023-01-08,2024-01-31,OnHold,HR
+74,13,2023-01-08,2024-01-31,OnHold,Customer Service
+75,13,2023-01-08,2024-01-31,OnHold,Operations
+79,14,2023-01-09,2024-03-14,Ongoing,Marketing
+80,14,2023-01-09,2024-03-14,Ongoing,Customer Service
+84,14,2023-01-09,2024-03-14,Ongoing,Operations
+96,15,2023-01-10,2024-04-14,Ongoing,HR
+97,15,2023-01-10,2024-04-14,Ongoing,Engineering
+102,15,2023-01-10,2024-04-14,Ongoing,IT
+119,16,2023-01-11,2024-05-14,Ongoing,Engineering
+123,16,2023-01-11,2024-05-14,Ongoing,HR
+130,16,2023-01-11,2024-05-14,Ongoing,Sales  
+142,17,2023-01-12,2024-06-14,Ongoing,Engineering
+144,17,2023-01-12,2024-06-14,Ongoing,IT
+147,17,2023-01-12,2024-06-14,Ongoing,Sales  
+150,57,2023-01-10,2024-09-30,Ongoing,Customer Service
+164,57,2023-01-10,2024-09-30,Ongoing,Finance
+165,58,2022-01-11,2023-10-31,Completed,Operations
+169,58,2022-02-11,2023-11-01,Completed,IT
+176,58,2022-03-11,2023-11-02,Completed,HR
+181,59,2021-01-12,2022-11-30,Completed,Customer Service
+187,59,2021-01-12,2022-11-30,Completed,Marketing
+195,59,2021-01-12,2022-11-30,Completed,IT
+197,60,2023-01-01,2023-12-31,Completed,Operations
+214,60,2023-01-01,2023-12-31,Completed,IT
+233,60,2023-01-01,2023-12-31,Completed,IT
+236,61,2022-01-02,2023-01-31,Completed,IT
+255,61,2022-01-02,2023-01-31,Completed,Engineering
+257,61,2022-01-02,2023-01-31,Completed,IT
+268,62,2021-01-03,2022-02-28,Completed,Marketing
+275,62,2021-01-03,2022-02-28,Completed,IT
+284,62,2021-01-03,2022-02-28,Completed,Finance
+300,63,2021-01-04,2022-03-31,Completed,IT
+307,63,2021-01-04,2022-03-31,Completed,IT
+308,63,2021-01-04,2022-03-31,Completed,Sales  
+310,64,2022-01-05,2023-04-30,Completed,Customer Service
+311,64,2022-01-05,2023-04-30,Completed,HR
+312,64,2022-01-05,2023-04-30,Completed,Engineering
+313,65,2021-01-06,2022-05-31,Completed,Finance
+314,65,2021-01-06,2022-05-31,Completed,Marketing
+319,65,2021-01-06,2022-05-31,Completed,Sales  
+325,66,2023-01-07,2024-06-30,Ongoing,IT
+326,66,2023-01-07,2024-06-30,Ongoing,Sales  
+329,67,2022-01-08,2023-07-31,Completed,IT
+341,67,2022-01-08,2023-07-31,Completed,Marketing
+353,67,2022-01-08,2023-07-31,Completed,Engineering
+371,68,2021-01-09,2022-08-31,Completed,Engineering
+379,68,2021-01-09,2022-08-31,Completed,Engineering
+385,68,2021-01-09,2022-08-31,Completed,HR
+393,69,2022-01-10,2023-09-30,Completed,Sales  
+394,69,2022-01-10,2023-09-30,Completed,IT
+397,69,2022-01-10,2023-09-30,Completed,Operations
+403,70,2022-01-11,2023-10-31,Completed,HR
+412,70,2022-01-11,2023-10-31,Completed,HR
+414,70,2022-01-11,2023-10-31,Completed,Operations
+415,71,2023-01-12,2024-11-30,Ongoing,Operations
+418,71,2023-01-12,2024-11-30,Ongoing,Operations
+428,71,2023-01-12,2024-11-30,Ongoing,Finance
+436,72,2023-01-01,2023-12-31,Completed,Marketing
+442,72,2023-01-01,2023-12-31,Completed,Operations
+447,72,2023-01-01,2023-12-31,Completed,Operations
+453,73,2024-01-02,2025-01-31,Ongoing,Operations
+455,73,2024-01-02,2025-01-31,Ongoing,Engineering
+457,73,2024-01-02,2025-01-31,Ongoing,IT
+459,74,2023-01-03,2024-02-29,Ongoing,Customer Service
+466,74,2023-01-03,2024-02-29,Ongoing,Customer Service
+469,74,2023-01-03,2024-02-29,Ongoing,HR
+471,75,2023-01-04,2024-03-31,Ongoing,IT
+473,75,2023-01-04,2024-03-31,Ongoing,Sales  
+475,75,2023-01-04,2024-03-31,Ongoing,Customer Service
+485,76,2021-01-05,2022-04-30,Completed,IT
+487,76,2021-01-05,2022-04-30,Completed,IT
+491,76,2021-01-05,2022-04-30,Completed,Operations
+494,77,2022-01-06,2023-05-31,Completed,IT
+498,77,2022-01-06,2023-05-31,Completed,Sales  
+501,77,2022-01-06,2023-05-31,Completed,IT
+502,78,2023-01-07,2024-06-30,Ongoing,Finance
+505,78,2023-01-07,2024-06-30,Ongoing,Customer Service
+509,78,2023-01-07,2024-06-30,Ongoing,c
+510,79,2023-01-08,2024-07-31,Ongoing,Finance
+516,79,2023-01-08,2024-07-31,Ongoing,HR
+517,80,2023-01-09,2024-08-31,Ongoing,Marketing
+522,80,2023-01-09,2024-08-31,Ongoing,Sales  
+527,81,2023-01-10,2024-09-30,Ongoing,Engineering
+528,81,2023-01-10,2024-09-30,Ongoing,Customer Service
+530,81,2023-01-10,2024-09-30,Ongoing,Sales  
+544,82,2023-01-11,2024-10-31,Ongoing,Finance
+556,82,2023-01-11,2024-10-31,Ongoing,HR
+571,82,2023-01-11,2024-10-31,Ongoing,HR
+573,83,2023-01-12,2024-11-30,Ongoing,Engineering
+574,83,2023-01-12,2024-11-30,Ongoing,Sales  
+578,83,2023-01-12,2024-11-30,Ongoing,Operations
+583,84,2024-01-01,2024-12-31,Ongoing,HR
+601,85,2024-01-02,2025-01-31,Ongoing,Operations
+602,85,2024-01-02,2025-01-31,Ongoing,Finance
+629,85,2024-01-02,2025-01-31,Ongoing,Marketing
+632,86,2024-01-03,2025-02-28,Ongoing,Sales  
+639,86,2024-01-03,2025-02-28,Ongoing,Finance
+641,86,2024-01-03,2025-02-28,Ongoing,IT
+644,87,2024-01-04,2025-03-31,Ongoing,Engineering
+646,87,2024-01-04,2025-03-31,Ongoing,IT
+655,87,2024-01-04,2025-03-31,Ongoing,HR
+669,88,2024-01-05,2025-04-30,Ongoing,Operations
+673,88,2024-01-05,2025-04-30,Ongoing,HR
+677,89,2024-01-06,2025-05-31,Ongoing,Engineering
+686,89,2024-01-06,2025-05-31,Ongoing,Sales  
+712,89,2024-01-06,2025-05-31,Ongoing,Finance
+718,90,2024-01-07,2025-06-30,Ongoing,Finance
+720,90,2024-01-07,2025-06-30,Ongoing,Marketing
+734,90,2024-01-07,2025-06-30,Ongoing,Finance
+735,91,2024-01-08,2025-07-31,Ongoing,Operations
+740,91,2024-01-08,2025-07-31,Ongoing,Engineering
+743,91,2024-01-08,2025-07-31,Ongoing,Customer Service
+753,92,2023-01-07,2024-06-30,Completed,IT
+758,92,2023-01-07,2024-06-30,Completed,Marketing
+760,92,2023-01-07,2024-06-30,Completed,Marketing
+765,93,2023-01-08,2024-07-31,On Hold,Engineering
+771,93,2023-01-08,2024-07-31,On Hold,Finance
+788,93,2023-01-08,2024-07-31,On Hold,HR
+799,94,2025-01-01,2025-12-31,Ongoing,Engineering
+804,94,2025-01-01,2025-12-31,Ongoing,IT
+806,95,2024-01-09,2025-08-31,Ongoing,Engineering
+809,95,2024-01-09,2025-08-31,Ongoing,Marketing
+810,96,2024-01-10,2025-09-30,Ongoing,Finance
+811,96,2024-01-10,2025-09-30,Ongoing,Marketing
+813,97,2024-01-01,2025-02-28,Ongoing,Engineering
+818,97,2024-01-01,2025-02-28,Ongoing,HR
+820,97,2024-01-01,2025-02-28,Ongoing,HR
+822,98,2024-01-12,2025-11-30,Ongoing,IT
+824,99,2024-01-03,2025-02-28,Ongoing,Operations
+828,99,2024-01-03,2025-02-28,Ongoing,IT
+837,99,2024-01-03,2025-02-28,Ongoing,Marketing
+840,100,2024-01-04,2025-03-31,Ongoing,Marketing
+852,100,2024-01-04,2025-03-31,Ongoing,Engineering
+856,101,2024-01-05,2025-04-30,Ongoing,Sales  
+862,101,2024-01-05,2025-04-30,Ongoing,IT
+871,101,2024-01-05,2025-04-30,Ongoing,HR
+872,102,2024-01-06,2025-05-31,Ongoing,IT
+883,102,2024-01-06,2025-05-31,Ongoing,HR
+884,102,2024-01-06,2025-05-31,Ongoing,Engineering
+894,103,2024-01-07,2025-06-30,Ongoing,Customer Service
+895,103,2024-01-07,2025-06-30,Ongoing,Finance
+906,104,2024-01-08,2025-07-31,Ongoing,Finance
+909,104,2024-01-08,2025-07-31,Ongoing,IT
+915,105,2024-01-09,2025-08-31,Ongoing,HR
+919,105,2024-01-09,2025-08-31,Ongoing,Customer Service
+920,105,2024-01-09,2025-08-31,Ongoing,Engineering
+921,106,2024-01-10,2025-09-30,Ongoing,IT
+932,106,2024-01-10,2025-09-30,Ongoing,Finance
+934,106,2024-01-10,2025-09-30,Ongoing,Customer Service
+935,107,2024-01-11,2025-10-31,Ongoing,Customer Service
+937,107,2024-01-11,2025-10-31,Ongoing,Sales  
+938,108,2024-01-12,2025-11-30,Ongoing,HR
+946,108,2024-01-12,2025-11-30,Ongoing,HR
+951,108,2024-01-12,2025-11-30,Ongoing,Marketing
+953,109,2025-01-01,2025-12-31,Ongoing,Operations
+955,109,2025-01-01,2025-12-31,Ongoing,Sales  
+957,110,2025-01-02,2026-01-31,Ongoing,Engineering
+958,110,2025-01-02,2026-01-31,Ongoing,Engineering
+962,110,2025-01-02,2026-01-31,Ongoing,Finance
+963,111,2025-01-03,2026-02-28,Ongoing,Sales  
+964,111,2025-01-03,2026-02-28,Ongoing,Customer Service
+968,112,2025-01-04,2026-03-31,Ongoing,Finance
+971,112,2025-01-04,2026-03-31,Ongoing,Customer Service
+972,113,2025-01-05,2026-04-30,Ongoing,IT
+974,113,2025-01-05,2026-04-30,Ongoing,Sales  
+975,114,2025-01-06,2026-05-31,Ongoing,IT
+979,114,2025-01-06,2026-05-31,Ongoing,Operations
+981,114,2025-01-06,2026-05-31,Ongoing,Marketing
+982,115,2025-01-07,2026-06-30,Ongoing,IT
+985,115,2025-01-07,2026-06-30,Ongoing,Customer Service
+986,116,2024-01-08,2025-07-31,Ongoing,Sales  
+988,116,2024-01-08,2025-07-31,Ongoing,Sales  
+989,116,2024-01-08,2025-07-31,Ongoing,HR
+990,117,2024-01-09,2025-08-31,Ongoing,Engineering
+991,117,2024-01-09,2025-08-31,Ongoing,Engineering
+993,118,2024-01-10,2025-09-30,Ongoing,Sales  
+994,118,2024-01-10,2025-09-30,Ongoing,Customer Service
+998,118,2024-01-10,2025-09-30,Ongoing,IT
+999,119,2024-01-11,2025-10-31,Ongoing,IT
+1000,119,2024-01-11,2025-10-31,Ongoing,HR
